@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/avatar.png",
     "header": {
-        "title": "hello",
+        "title": "Hello",
         "has_nav": true,
         "nav_links": [
             {
