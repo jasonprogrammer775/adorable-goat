@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/avatar.png",
     "header": {
-        "title": "Stackbit Vanilla",
+        "title": "hello",
         "has_nav": true,
         "nav_links": [
             {
